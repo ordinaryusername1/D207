@@ -1,3 +1,4 @@
 churn_clean.csv
 churn_data_clean_parker.csv
 .ipynb_checkpoints
+venv/
